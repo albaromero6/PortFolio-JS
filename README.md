@@ -4,7 +4,6 @@
 <h2>Indice</h2>
 <ul>
   <li><a href="#introduccion">Introducción</a></li>
-  <li><a href="#motivacion">Motivación</a></li>
   <li><a href="#estructura">Estructura</a></li>
   <li><a href="#snippets">Code Snippets</a></li>
   <li><a href="#estilo">Estilo</a></li>
@@ -13,26 +12,14 @@
 
 <h2 id="introduccion">Introducción</h2>
 <p>Trabajo realizado por Alba Romero</p>
-<p>Proyecto de web realizado con bootstrap y basado en el modelo de trabajo del primer trimestre</p>
+<p>Proyecto de web realizado con bootstrap, html, css y JS</p>
 <p>Trabajo realizado con fines educativos</p>
-<p>Febrero de 2024</p>
+<p>Mayo de 2024</p>
 <p>CopyRight ©</p>
 
-<h2 id="motivacion">Motivación</h2>
-<p>El tema lo he elegido ya que me encanta viajar a diferentes partes del mundo, pero en concreto, cuando visité Mallorca, quede totalmente enamorada. La idea es que esta página sirva para que otras personas puedan visitar los que, desde mi punto de vista, son los lugares imprescindibles de la isla.</p>
-
 <h2 id="estructura">Estructura</h2>
-<p>La web está dividida en 8 secciones:</p>
-<ul>
-  <li>Hero Section</li>  
-  <li>Introducción</li>
-  <li>Pueblos</li>
-  <li>Calas</li>
-  <li>Lugares</li>
-  <li>Galería</li>
-  <li>Contacto</li>
-  <li>Footer</li>
-</ul>
+<p>La web muestra una página principal en la que se pueden apreciar 11 cards, una por cada ejercicio realizado</p>
+
 
 <h3>Hero Section</h3>
 <img src="./img-readme/hero.png" alt="imagen de la sección hero" style="width:100%">
