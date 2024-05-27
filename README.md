@@ -21,6 +21,9 @@
 <p>La web muestra una página principal en la que se pueden apreciar 11 cards, una por cada ejercicio realizado</p>
 <br>
 <img src="./img-readme/Portada.png" alt="imagen portada" style="width:100%">
+<br>
+<p>Ejercicio 0: Crea una página web, en la que, al ingresar, se muestre el mensaje “Hola mundo” mediante un Alert</p>
+<p>Ejercicio 1: Crea una página web, en la que, al ingresar, se muestre el mensaje “Hola mundo” tras pulsar un botón</p>
 
 <h2 id="snippets">Code snippets</h2>
 <p>He utilizado los siguientes:</p>
