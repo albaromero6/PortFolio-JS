@@ -1,0 +1,99 @@
+/*********************************************************************************/
+/*                             CSS para index.html                               */
+/*                                 Alba Romero                                   */
+/*                                  Mayo 2023                                    */
+/*                              Lenguaje de Marcas                               */
+/*********************************************************************************/
+
+@font-face {
+    font-family: titulo;
+    src: url(../fonts/BebasNeue-Regular.ttf);
+}
+
+@font-face {
+    font-family: card;
+    src: url(../fonts/Quicksand-Regular.ttf);
+}
+
+html, body {margin: 0;
+    padding: 0;
+    height: 100%;}
+
+#wrapper {margin: auto;
+    background-color: rgba(240,219,79,255);
+    padding-top: 2%;
+    min-height: 100vh;}
+
+h1 {text-align: center;
+    padding: 1%;
+    padding-bottom: 0;
+    font-family: titulo;
+    font-size: 4em;
+    color: rgba(50,51,48,255);}
+
+h3 {font-family: card;}
+
+section {padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;}
+
+.grid-4 {display: grid;
+    grid-template-columns: 100%;}
+
+.col-4 {padding-bottom: 8%;}
+
+.card img {width: 100%;
+    margin-bottom: 5%;
+    height: auto;
+    object-fit: cover;
+    aspect-ratio: 2 / 1;}
+
+.card {border: 3px solid rgba(240,219,79,255);
+    box-shadow: 2px 2px 5px rgba(50,51,48,255);
+    background-color: rgba(50,51,48,255);
+    border-radius: 10px;
+    padding-top: 4%;
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-bottom: 8%;}
+
+.card h2 {font-family: card;
+    text-align: center;
+    color: rgba(240,219,79,255);}
+
+.card:hover {box-shadow: 3px 3px 5px rgba(50,51,48,255)}
+
+.btn {border: 1px solid rgba(50,51,48,255);
+    background-color: rgba(240,219,79,255);
+    color: rgba(50,51,48,255);
+    border-radius: 10px; 
+    text-align: center;
+    display: block;
+    margin: auto;
+    font-size: 0.9em;
+    padding: 6px 10px;
+    transition: background-color 0.3s ease}
+
+.btn:hover {background-color: rgba(255, 255, 153, 255)}
+
+a {font-family: card;
+    font-weight: bolder;
+    text-decoration: none;
+    color: rgba(50,51,48,255)}
+
+* {box-sizing: border-box}
+
+/******************   RESPONSIVIDAD EN PC  ********************/
+
+@media only screen and (min-width: 800px) {
+
+    #wrapper {width: 100%;}
+
+    .grid-4 {grid-template-columns: 25% 25% 25% 25%;}
+
+    .col-4 {padding: 5%;}
+
+    .btn {font-size: 1.2em;}
+
+}
