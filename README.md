@@ -24,12 +24,7 @@
 <br>
 <p>Ejercicio 0: Crea una página web, en la que, al ingresar, se muestre el mensaje “Hola mundo” mediante un Alert</p>
 <p>Ejercicio 1: Crea una página web, en la que, al ingresar, se muestre el mensaje “Hola mundo” tras pulsar un botón</p>
-<p>Ejercicio 2: Invoca desde una página html el código JS que te pida, mediante formulario, el radio de
-una circunferencia y te muestre en la propia página tres resultados:
-a. Longitud de la circunferencia que corresponde a ese radio
-b. Área del círculo
-c. Volumen de la esfera
-</p>
+<p>Ejercicio 2: Pide un mediante formulario, el radio de una circunferencia y muestra tres resultados: longitud de la circunferencia, área del círculo y volumen de la esfera</p>
 <p>Ejercicio 3: </p>
 <p>Ejercicio 4: </p>
 <p>Ejercicio 5: </p>
