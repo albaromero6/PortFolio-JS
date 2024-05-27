@@ -1,6 +1,6 @@
 <h1>MEMORIA PORTFOLIO JAVASCRIPT</h1>
 <br>
-<img src="./img-readme/Header.jpg" alt="imagen header" style="width:100%">
+<img src="./img-readme/Header.png" alt="imagen header" style="width:100%">
 <h2>Indice</h2>
 <ul>
   <li><a href="#introduccion">Introducción</a></li>
