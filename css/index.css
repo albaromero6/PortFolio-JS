@@ -47,7 +47,10 @@ section {padding-left: 5%;
     margin-bottom: 5%;
     height: auto;
     object-fit: cover;
-    aspect-ratio: 2 / 1;}
+    aspect-ratio: 2 / 1;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;}
 
 .card {border: 3px solid rgba(240,219,79,255);
     box-shadow: 2px 2px 5px rgba(50,51,48,255);
