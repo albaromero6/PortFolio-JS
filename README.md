@@ -24,6 +24,16 @@
 <br>
 <p>Ejercicio 0: Crea una página web, en la que, al ingresar, se muestre el mensaje “Hola mundo” mediante un Alert</p>
 <p>Ejercicio 1: Crea una página web, en la que, al ingresar, se muestre el mensaje “Hola mundo” tras pulsar un botón</p>
+<p>Ejercicio 2: </p>
+<p>Ejercicio 3: </p>
+<p>Ejercicio 4: </p>
+<p>Ejercicio 5: </p>
+<p>Ejercicio 6: </p>
+<p>Ejercicio 7: </p>
+<p>Ejercicio 8: </p>
+<p>Ejercicio 9: </p>
+<p>Ejercicio 10: </p>
+<p>Ejercicio 11: </p>
 
 <h2 id="snippets">Code snippets</h2>
 <p>He utilizado los siguientes:</p>
