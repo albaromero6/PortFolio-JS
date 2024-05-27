@@ -34,7 +34,6 @@
 </ul>
 
 <h2 id="estilo">Estilo</h2>
-<br>
 <h3>Paleta de colores</h3>
 <ul><p>· Tono blanco (#White)</p></ul>
 <ul><p>· Tonos verdes (rgba(5, 164, 122, 0.932), rgba(20, 210, 159, 0.932), #81d7c0e8, etc.)</p></ul>
