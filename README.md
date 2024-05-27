@@ -4,10 +4,7 @@
 <h2>Indice</h2>
 <ul>
   <li><a href="#introduccion">Introducción</a></li>
-  <li><a href="#estructura">Estructura</a></li>
-  <li><a href="#snippets">Code Snippets</a></li>
-  <li><a href="#estilo">Estilo</a></li>
-  
+  <li><a href="#estructura">Estructura</a></li>  
 </ul>
 
 <h2 id="introduccion">Introducción</h2>
